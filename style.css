@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+}
+
+.shape {
+  height: 300px;
+  width: 500px;
+  background-color: red;
+}
