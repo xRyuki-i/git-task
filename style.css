@@ -4,6 +4,7 @@ body {
 
 .shape {
   height: 300px;
-  width: 400px;
+  width: 300px;
   background-color: red;
+  border-radius: 300px;
 }
